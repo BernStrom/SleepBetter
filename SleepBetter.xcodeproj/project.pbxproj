@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D4D85B8284BC44900B058FE /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2D4D85B7284BC44900B058FE /* SleepCalculator.mlmodel */; };
 		2D7D7444284A09E600FA3A8D /* SleepBetterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7D7443284A09E600FA3A8D /* SleepBetterApp.swift */; };
 		2D7D7446284A09E600FA3A8D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7D7445284A09E600FA3A8D /* ContentView.swift */; };
 		2D7D7448284A09E900FA3A8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D7D7447284A09E900FA3A8D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D4D85B7284BC44900B058FE /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		2D7D7440284A09E600FA3A8D /* SleepBetter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SleepBetter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D7D7443284A09E600FA3A8D /* SleepBetterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleepBetterApp.swift; sourceTree = "<group>"; };
 		2D7D7445284A09E600FA3A8D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				2D7D7443284A09E600FA3A8D /* SleepBetterApp.swift */,
 				2D7D7445284A09E600FA3A8D /* ContentView.swift */,
 				2D7D7447284A09E900FA3A8D /* Assets.xcassets */,
+				2D4D85B7284BC44900B058FE /* SleepCalculator.mlmodel */,
 				2D7D7449284A09E900FA3A8D /* Preview Content */,
 			);
 			path = SleepBetter;
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D7D7446284A09E600FA3A8D /* ContentView.swift in Sources */,
+				2D4D85B8284BC44900B058FE /* SleepCalculator.mlmodel in Sources */,
 				2D7D7444284A09E600FA3A8D /* SleepBetterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
