@@ -28,6 +28,10 @@ For the interface, the app features a simple form with 3 sections that requires 
 
 Once the app has all 3 input answers by the user, the most bottom section of the app will display the result of the user's ideal bedtime based on the input data above.
 
+## App preview
+
+https://user-images.githubusercontent.com/65307853/182377217-9dbe0fe8-3cfe-4a66-a5af-ff8f512a7af7.mp4
+
 ## Trying it yourself
 
 SleepBetter is written using Xcode 13.2 and Swift 5.0. To try it out, you can clone this project and build it immediately by opening `SleepBetter.xcodeproj`.
